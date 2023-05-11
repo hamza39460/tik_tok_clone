@@ -1,0 +1,4 @@
+enum HomeSection {
+  following,
+  forYou,
+}
